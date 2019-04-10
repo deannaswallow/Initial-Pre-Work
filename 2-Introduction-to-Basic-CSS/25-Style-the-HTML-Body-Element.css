@@ -1,0 +1,7 @@
+/* Proved that the page had a body element by giving it a background color. */
+
+<style>
+  body {
+    background-color: black;
+  }
+</style>
