@@ -1,0 +1,7 @@
+/* Learned that using RGB means specifying the brightness of each color. */
+
+<style>
+  body {
+    background-color: rgb(0, 0, 0);
+  }
+</style>
