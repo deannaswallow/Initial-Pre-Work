@@ -1,0 +1,15 @@
+/* Learned more about browser compatibility, such as Internet Explorer not
+supporting CSS variables and how to supply fallback values. */
+
+<style>
+  :root {
+    --red-color: red;
+  }
+  .red-box {
+    background: red;
+    background: var(--red-color);
+    height: 200px;
+    width:200px;
+  }
+</style>
+<div class="red-box"></div>
