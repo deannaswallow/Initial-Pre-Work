@@ -1,3 +1,6 @@
-// Please remember to include a summary statement with EACH FILE regarding what you learned from the lesson in this format!  I recommend keeping it at the top of each file for faster processing of your application.
+/*JavaScript supports two types of comments, one liners and multilines. If you're
+only commenting out one line, it's two forward slashes. If it's a multiline
+comment, it's the same as a CSS comment. */
 
-// Copy your code from the central panel of the freeCodeCamp page and paste it below after successfully passing the test.  You will have to click on the X at the top right of the modal that pops up to see the code. If you forget, just rerun the test.  You are also welcome to download your solution.
+// This is a one liner.
+/* This is used for a multiline comment. */

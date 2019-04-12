@@ -1,0 +1,8 @@
+// Initializing a variable is giving it a value at the same time as
+// declaring it.
+
+// Example
+var ourVar = 19;
+
+// Only change code below this line
+var a = 9;
