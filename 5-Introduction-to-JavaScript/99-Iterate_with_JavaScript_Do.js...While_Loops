@@ -1,0 +1,12 @@
+// A do while loop will execute at least once, and keep going as long as the
+// condition is still true. The condition is checked *after* iteration.
+
+// Setup
+var myArray = [];
+var i = 10;
+
+// Only change code below this line.
+do {
+  myArray.push(i);
+  i++;
+} while(i <= 10);
